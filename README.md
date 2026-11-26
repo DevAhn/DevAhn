@@ -12,12 +12,12 @@ My main interest is bridging computer vision research and practical engineering,
 
 | Domain | Technologies & Experience |
 | --- | --- |
-| Programming | C, C++, Python |
-| Computer Vision | OpenCV, Object Detection, Multi-Object Tracking, Camera Calibration, Stereo Vision |
+| Computer Vision | Object Detection, Multi-Object Tracking, Camera Calibration, Stereo Vision, OpenCV |
 | ADAS & Autonomous Driving | Traffic Light Change Alert (TLCA), Lane Detection, Lane Keeping Assist (LKA), Radar Tracking |
 | Deep Learning | PyTorch, TensorFlow, CNN, MLP, YOLO, SSD, Faster R-CNN |
 | Sensor Fusion | LiDAR–Camera Calibration, Radar Tracking, Kalman Filter |
 | Embedded & Optimization | RTOS, ARM NEON, SSE, CUDA, Real-Time Image Processing |
+| Programming | C, C++, Python |
 | Development Environment | Linux, Windows, WSL2, ROS/ROS2, Git, VS Code |
 
 ## Professional Experience Highlights
