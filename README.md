@@ -6,7 +6,7 @@ I am a computer vision and software engineer with hands-on experience in algorit
 
 My main interest is bridging computer vision research and practical engineering, with an emphasis on detection reliability, processing latency, memory efficiency, and system stability.
 
-17년간 영상처리 및 소프트웨어 개발을 수행해 왔으며, ADAS 알고리즘 설계부터 C/C++ 구현, 임베디드 최적화, 양산 적용까지 직접 수행한 경험을 보유하고 있습니다. 현재는 딥러닝 모델의 구조와 학습 원리를 심층적으로 분석하고, 객체 검출 및 로봇비전 분야로 기술 역량을 확장하고 있습니다.
+다년간 영상처리 및 소프트웨어 개발을 수행해 왔으며, ADAS 알고리즘 설계부터 C/C++ 구현, 임베디드 최적화, 양산 적용까지 직접 수행한 경험을 보유하고 있습니다. 현재는 딥러닝 모델의 구조와 학습 원리를 심층적으로 분석하고, 객체 검출 및 로봇비전 분야로 기술 역량을 확장하고 있습니다.
 
 ## Core Expertise
 
