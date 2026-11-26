@@ -1,6 +1,6 @@
 # Computer Vision & ADAS Engineer
 
-**17 years of software development experience | Computer Vision · Autonomous Driving · Embedded AI**
+** Computer Vision · Autonomous Driving · Embedded AI**
 
 I am a computer vision and software engineer with hands-on experience in algorithm design, C/C++ implementation, deep learning integration, real-time processing, and production deployment of automotive vision systems.
 
